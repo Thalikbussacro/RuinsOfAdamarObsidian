@@ -1,0 +1,1 @@
+Os jogadores chegam na vila e lá encontram [[Aldric]]. Nesse momento são [[Aldric]], jhonatan e [[Haridis]]. Eles falam com os moradores da vila, ajudam matando algumas aranhas e depois seguem para o templo. Na vila também conheceram Fatima e Marcos, os "lideres" da vila.

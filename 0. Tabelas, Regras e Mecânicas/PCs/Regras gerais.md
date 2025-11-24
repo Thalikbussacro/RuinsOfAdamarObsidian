@@ -1,0 +1,11 @@
+Regras de GURPS:
+- Nível de tecnologia: 3
+- Aptidão mágica máxima: 0
+- Nível de mana geral: muito baixo (GURPS 4th - Thaumatology)
+- Livros sendo usados atualmente: 
+	- GURPS 4th - Basic Set
+	- GURPS 4th - Campains
+	- GURPS 4th - Low Tech
+	- GURPS 4th - Magic
+	- GURPS 4th - Martial Arts
+	- GURPS 4th - Thaumatology		

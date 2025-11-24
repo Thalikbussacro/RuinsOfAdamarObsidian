@@ -1,0 +1,1 @@
+Lutaram com o grupo de bandidos, no final [[O Tocha]] meio que se sacrificou para dar inicio ao evento da [[lua negra]], explodindo em chamas. Dialo pôs o anel no dedo e então desmaiou, como se estivesse morto, o grupo deixou seu corpo na igreja, eles haviam falhado.

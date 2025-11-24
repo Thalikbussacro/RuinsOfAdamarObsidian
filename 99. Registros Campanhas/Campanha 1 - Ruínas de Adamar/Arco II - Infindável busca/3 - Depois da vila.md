@@ -1,0 +1,1 @@
+Na estrada para o forte encontram alguém em uma caverna sem memoria, [[Ash' Kia]]. [[Ash' Kia]] junta-se ao grupo e eles continuam. Encontram uma caverna, brigam um pouco la dentro e ficam sabendo pela primeira vez do deus esquecido.

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"1. História Oficial e Registros\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#evento  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#informacao",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#conceito  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#historia  ",
+      "color": {
+        "a": 1,
+        "rgb": 12349634
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.0953125,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 4.6875,
+  "linkStrength": 0.677083333333333,
+  "linkDistance": 30,
+  "scale": 0.8854989543150479,
+  "close": false
+}

@@ -1,0 +1,1 @@
+Seguiram os rastros da carroça, localizaram o grupo de bandidos e foram atras lutar com eles para salvar a vila e as pessoas.

@@ -1,0 +1,1 @@
+Labirinto da [[Masmorra de Sirelia 1]]

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9883d78ae9f9532",
+        "id": "95e1b8797c846335",
         "type": "tabs",
         "children": [
           {
-            "id": "4d67158d4e912cff",
+            "id": "d6ece010e38137a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PILOTO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PILOTO"
+              "title": "Nova aba"
             }
           }
         ]
@@ -105,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PILOTO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para PILOTO"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PILOTO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para PILOTO"
+              "title": "Links de saída"
             }
           },
           {
@@ -163,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PILOTO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de PILOTO"
+              "title": "Sumário"
             }
           },
           {
@@ -206,6 +198,7 @@
   },
   "active": "7839fbccaaf9edc3",
   "lastOpenFiles": [
+    "PILOTO.md",
     "Legenda Tags.md",
     "Lucia.md",
     "Canvas WIP.canvas",
@@ -224,7 +217,6 @@
     "1. História Oficial e Registros/0. Introdução Geral/0. Link Úteis.md",
     "Canvas Capitulo 8.canvas",
     "22-11-2025.md",
-    "PILOTO.md",
     "0. Tabelas, Regras e Mecânicas/DMs/Masmorra de Lath Alarom 1.md",
     "05-04-2025.md",
     "0. Tabelas, Regras e Mecânicas/DMs/Masmorra de Sirelia 1.md",

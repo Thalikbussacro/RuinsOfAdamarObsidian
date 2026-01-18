@@ -1,6 +1,6 @@
 #historia 
 
-AAdamar já foi um mundo muito mais grandioso do que é hoje. Civilizações de eras atrás povoavam o mundo e eram versadas na magia, criando artefatos poderosos, construções impossíveis e masmorras que chegavam até as bases da criação.
+Adamar já foi um mundo muito mais grandioso do que é hoje. Civilizações de eras atrás povoavam o mundo e eram versadas na magia, criando artefatos poderosos, construções impossíveis e masmorras que chegavam até as bases da criação.
 
 Em algum momento dessa época imensuravelmente distante os [[0. Seres Invasores]] chegaram. Demônios ou Deuses, essas entidades de poder imensurável abriram rasgos no céu e na terra e atravessaram com suas hostes até Adamar, impelidos apenas por uma fúria destrutiva e sede pela dominação.
 

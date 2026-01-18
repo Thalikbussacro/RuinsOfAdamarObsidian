@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão/Sessão 1.md",
+                "file": "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2/Sessão 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sessão 1"
+              "title": "Sessão 2"
+            }
+          },
+          {
+            "id": "4cb53554337bfc43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2/Masmorra Anã 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Masmorra Anã 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão/Sessão 1.md",
+                "file": "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2/Masmorra Anã 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sessão 1"
+              "title": "Sumário de Masmorra Anã 1"
             }
           },
           {
@@ -202,16 +215,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ab4adaac693d89",
+  "active": "9f238ad3be36308a",
   "lastOpenFiles": [
-    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2.md",
-    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão/Sessão 1.md",
+    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2/Sessão 2.md",
+    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2/Masmorra Anã 1.md",
+    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão/Sessão 1",
+    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão/Sessão 2",
+    "Canvas Capitulo 8.canvas",
+    "0. Ideias Pendente Desenvolver/Dicas WorldBuilding/Os 4 C_s do worldbuilding.md",
+    "0. Ideias Pendente Desenvolver/Dicas WorldBuilding/Genius Loci.md",
+    "0. Ideias Pendente Desenvolver/Dicas WorldBuilding/Festivais.md",
+    "0. Ideias Pendente Desenvolver/Dicas WorldBuilding/Dicas.md",
+    "0. Ideias Pendente Desenvolver/Corações Enforcados.md",
+    "Imagens/Pasted image 20250321232526.png",
+    "Imagens/Pasted image 20250321232519.png",
+    "Imagens/Pasted image 20250321232319 1.png",
+    "Imagens/Pasted image 20250321232208.png",
+    "Imagens/Lucia.png",
+    "Imagens/Imperador Pálido.png",
+    "Imagens/Gemini_Generated_Image_5p7eqn5p7eqn5p7e.png",
+    "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão/Sessão 1/Sessão 1.md",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Pós Sessão",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/Anotações DM/Planejamento Sessão",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/PCs/Grupo.md",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/PCs/(Matheus).md",
-    "Imagens/Gemini_Generated_Image_5p7eqn5p7eqn5p7e.png",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/PCs/(Donnie).md",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/PCs/(Bianca).md",
     "99. Registros Campanhas/D&D Faerun/Grupo 2/PCs/(Jessica).md",
@@ -233,23 +261,8 @@
     "0. Tabelas, Regras e Mecânicas/DMs/Masmorra de Lath Alarom 1.md",
     "0. Tabelas, Regras e Mecânicas/DMs/Masmorra de Sirelia 1.md",
     "0. Tabelas, Regras e Mecânicas/DMs/0. Masmorras.md",
-    "0. Tabelas, Regras e Mecânicas/PCs/Regras gerais.md",
-    "0. Descartado/MINHA SEMANA - 17 a 26 de março.md",
-    "PILOTO.md",
     "Canvas WIP.canvas",
-    "Canvas Capitulo 8.canvas",
-    "25-11-2025.md",
-    "18-01-2026.md",
-    "1. História Oficial e Registros/3. Grupos e NPCs/NPCs/Humanos/Feno.md",
-    "Excalidraw",
-    "1. História Oficial e Registros/1. Histórias e Mitos/Eventos",
-    "Imagens/Imperador Pálido.png",
-    "Imagens/Lucia.png",
-    "Imagens/Pasted image 20250321232319 1.png",
-    "Imagens/Pasted image 20250321232208.png",
     "Imagens/Lucia 1.png",
-    "Imagens/Pasted image 20250321232526.png",
-    "Imagens/Pasted image 20250321232519.png",
     "1. História Oficial e Registros/1. Histórias e Mitos/Divindades/Divindades de Adamar/0. Revisar no futuro/Sirelia/Imagens/Pintura Humana.png",
     "Imagens/Pasted image 20250321232319.png",
     "Sem título 1.canvas"
